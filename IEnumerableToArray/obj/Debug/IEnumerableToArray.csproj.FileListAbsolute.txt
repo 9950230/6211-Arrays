@@ -1,0 +1,6 @@
+C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\bin\Debug\IEnumerableToArray.exe.config
+C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\bin\Debug\IEnumerableToArray.exe
+C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\bin\Debug\IEnumerableToArray.pdb
+C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.exe
+C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.pdb

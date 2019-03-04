@@ -1,0 +1,6 @@
+C:\Users\9950230\source\repos\Arrays\ArrayLINQ\bin\Debug\ArrayLINQ.exe.config
+C:\Users\9950230\source\repos\Arrays\ArrayLINQ\bin\Debug\ArrayLINQ.exe
+C:\Users\9950230\source\repos\Arrays\ArrayLINQ\bin\Debug\ArrayLINQ.pdb
+C:\Users\9950230\source\repos\Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.exe
+C:\Users\9950230\source\repos\Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.pdb
