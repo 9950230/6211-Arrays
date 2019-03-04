@@ -13,9 +13,9 @@ namespace ArrayLINQ
 
             double[] randomDoubles = new double[1000];
             double[] randomDoublesOriginal = new double[1000];
-            randomDoubles = generateOneThousandDoubles();
-            // TODO: Change to copy()
-            randomDoublesOriginal = randomDoubles;
+            randomDoubles = GenerateOneThousandDoubles();
+            // True copies using CopyTo() can only be done on arrays of types that are passed by value
+            randomDoubles.CopyTo(randomDoublesOriginal, 0);
 
             var numbersGreaterThanTwo = from number
                                         in randomDoubles
@@ -26,21 +26,19 @@ namespace ArrayLINQ
 
             randomDoubles = numbersGreaterThanTwo.ToArray();
 
-            double[] randomDoublesAscending = new double[1000];
-            randomDoublesAscending = randomDoubles;
+            double[] randomDoublesAscending = new double[randomDoubles.Length];
+            randomDoubles.CopyTo(randomDoublesAscending, 0);
             Array.Sort(randomDoublesAscending);
-            Array.Reverse(randomDoublesAscending);
 
-            double[] randomDoublesDescending = new double[1000];
-            randomDoublesDescending = randomDoubles;
+            double[] randomDoublesDescending = new double[randomDoubles.Length];
+            randomDoubles.CopyTo(randomDoublesDescending, 0);
             Array.Sort(randomDoublesDescending);
+            Array.Reverse(randomDoublesDescending);
 
             Console.WriteLine("***** Ascending Random Doubles");
-
             WriteTenDoublesPerLine(randomDoublesAscending);
 
             Console.WriteLine("\n\n\n***** Descending Random Doubles");
-
             WriteTenDoublesPerLine(randomDoublesDescending);
 
             Console.ReadKey();
@@ -65,7 +63,7 @@ namespace ArrayLINQ
         }
 
 
-        static double[] generateOneThousandDoubles()
+        static double[] GenerateOneThousandDoubles()
         {
             Random random = new Random();
             double[] randomDoubles = new double[1000];

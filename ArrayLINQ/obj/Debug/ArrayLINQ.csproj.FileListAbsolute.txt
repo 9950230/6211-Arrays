@@ -4,3 +4,10 @@ C:\Users\9950230\source\repos\Arrays\ArrayLINQ\bin\Debug\ArrayLINQ.pdb
 C:\Users\9950230\source\repos\Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.csproj.CoreCompileInputs.cache
 C:\Users\9950230\source\repos\Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.exe
 C:\Users\9950230\source\repos\Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\ArrayLINQ\bin\Debug\ArrayLINQ.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\ArrayLINQ\bin\Debug\ArrayLINQ.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\ArrayLINQ\bin\Debug\ArrayLINQ.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\ArrayLINQ\obj\Debug\ArrayLINQ.pdb

@@ -5,3 +5,10 @@ C:\Users\9950230\source\repos\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyRefer
 C:\Users\9950230\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 C:\Users\9950230\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\9950230\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\Arrays\obj\Debug\Arrays.pdb

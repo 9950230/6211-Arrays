@@ -13,9 +13,8 @@ namespace ArrayLINQ
 
             double[] randomDoubles = new double[1000];
             double[] randomDoublesOriginal = new double[1000];
-            randomDoubles = generateOneThousandDoubles();
-            // TODO: Change to copy()
-            randomDoublesOriginal = randomDoubles;
+            randomDoubles = GenerateOneThousandDoubles();
+            randomDoubles.CopyTo(randomDoublesOriginal, 0);
 
             var numbersGreaterThanTwo = from number 
                                         in randomDoubles
@@ -40,7 +39,7 @@ namespace ArrayLINQ
             Console.ReadKey();
         }
 
-        static double[] generateOneThousandDoubles()
+        static double[] GenerateOneThousandDoubles()
         {
             Random random = new Random();
             double[] randomDoubles = new double[1000];

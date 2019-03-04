@@ -4,3 +4,10 @@ C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\bin\Debug\IEnumerableToA
 C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.csproj.CoreCompileInputs.cache
 C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.exe
 C:\Users\9950230\source\repos\Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\IEnumerableToArray\bin\Debug\IEnumerableToArray.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\IEnumerableToArray\bin\Debug\IEnumerableToArray.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\IEnumerableToArray\bin\Debug\IEnumerableToArray.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-Arrays\IEnumerableToArray\obj\Debug\IEnumerableToArray.pdb
